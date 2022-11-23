@@ -1,0 +1,15 @@
+C:\Users\KirillovEE\Documents\Seminar2_DZ\bin\Debug\net6.0\Seminar2_DZ.exe
+C:\Users\KirillovEE\Documents\Seminar2_DZ\bin\Debug\net6.0\Seminar2_DZ.deps.json
+C:\Users\KirillovEE\Documents\Seminar2_DZ\bin\Debug\net6.0\Seminar2_DZ.runtimeconfig.json
+C:\Users\KirillovEE\Documents\Seminar2_DZ\bin\Debug\net6.0\Seminar2_DZ.dll
+C:\Users\KirillovEE\Documents\Seminar2_DZ\bin\Debug\net6.0\Seminar2_DZ.pdb
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.csproj.CoreCompileInputs.cache
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.dll
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\refint\Seminar2_DZ.dll
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.pdb
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\Seminar2_DZ.genruntimeconfig.cache
+C:\Users\KirillovEE\Documents\Seminar2_DZ\obj\Debug\net6.0\ref\Seminar2_DZ.dll
